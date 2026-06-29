@@ -7,3 +7,5 @@
 - CHANFANA 
 
 - arroz
+
+- Chocolate
