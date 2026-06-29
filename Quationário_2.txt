@@ -1,27 +1,25 @@
 ﻿Parte 1: Verdadeiro ou Falso 
-1. O comando git init cria uma pasta invisível chamada .git no teu diretório. Sem ela, a pasta é apenas uma pasta normal e o Git não monitoriza nada.
+1. O comando git init cria uma pasta invisível chamada .git no teu diretório. Sem ela, a pasta é apenas uma pasta normal e o Git não monitoriza nada. V
 
-2. O comando git status mostra-te as linhas de código exatas que foram alteradas dentro de um ficheiro.
+2. O comando git status mostra-te as linhas de código exatas que foram alteradas dentro de um ficheiro. F
 
-3. Se criares um branch chamado feature-login, podes apagá-lo imediatamente com o comando git branch -d feature-login mesmo estando atualmente dentro dele.
+3. Se criares um branch chamado feature-login, podes apagá-lo imediatamente com o comando git branch -d feature-login mesmo estando atualmente dentro dele. F
 
-4. Um conflito de merge acontece automaticamente sempre que juntamos dois branches, independentemente de termos mexido nas mesmas linhas ou não.
+4. Um conflito de merge acontece automaticamente sempre que juntamos dois branches, independentemente de termos mexido nas mesmas linhas ou não. F
 
-5. O comando git reset reescreve o passado (apaga commits), pelo que só deve ser usado em commits locais que ainda não foram enviados para o repositório remoto.
+5. O comando git reset reescreve o passado (apaga commits), pelo que só deve ser usado em commits locais que ainda não foram enviados para o repositório remoto. V
 
-6. O GitHub funciona como uma cópia de segurança na nuvem, mas apenas guarda a versão mais recente dos teus ficheiros, perdendo o histórico de commits local.
+6. O GitHub funciona como uma cópia de segurança na nuvem, mas apenas guarda a versão mais recente dos teus ficheiros, perdendo o histórico de commits local. F
 
-7. O comando git branch -M main serve para renomear o branch atual (por exemplo, de master) para main.
+7. O comando git branch -M main serve para renomear o branch atual (por exemplo, de master) para main. V
 
-8. Fazer git pull logo no início do dia de trabalho é uma excelente prática que ajuda a evitar conflitos desnecessários com o código que os teus colegas enviaram na véspera.
+8. Fazer git pull logo no início do dia de trabalho é uma excelente prática que ajuda a evitar conflitos desnecessários com o código que os teus colegas enviaram na véspera. V
 
 Parte 2: Escolha Múltipla (Apenas uma opção correta)
 
 9. Qual é o comando correto para visualizar todo o histórico de commits feitos no projeto?
-A) git status
-B) git show
 C) git log
-D) git history
+
 
 10. Se queres criar um branch novo chamado teste e saltar para dentro dele imediatamente com um único comando, o que deves escrever?
 A) git branch teste
