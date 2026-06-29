@@ -1,7 +1,7 @@
 ﻿Parte 1: Verdadeiro ou Falso 
 1. O comando git init cria uma pasta invisível chamada .git no teu diretório. Sem ela, a pasta é apenas uma pasta normal e o Git não monitoriza nada. 
 
-2. O comando git status mostra-te as linhas de código exatas que foram alteradas dentro de um ficheiro. F
+2. O comando git status mostra-te as linhas de código exatas que foram alteradas dentro de um ficheiro.
 
 3. Se criares um branch chamado feature-login, podes apagá-lo imediatamente com o comando git branch -d feature-login mesmo estando atualmente dentro dele. 
 
