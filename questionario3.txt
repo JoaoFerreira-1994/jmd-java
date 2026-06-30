@@ -1,0 +1,111 @@
+﻿1. Os testes de software provam que a aplicação está 100% livre de erros e que nunca vai falhar no futuro.
+( ) Verdadeiro
+(X) Falso
+
+2. Encontrar e corrigir um erro na fase inicial de desenho do projeto custa exatamente o mesmo do que corrigi-lo quando o software já está instalado no cliente.
+( ) Verdadeiro
+(X) Falso
+
+3. A área de Engenharia de Qualidade (QA) foca-se apenas em encontrar erros após o código estar escrito, não tendo qualquer papel no planeamento do projeto.
+( ) Verdadeiro
+(X) Falso
+
+4. O termo "bug" utilizado na informática teve origem histórica quando uma falha num computador antigo foi causada por um inseto real preso nos circuitos.
+(X) Verdadeiro
+( ) Falso
+
+5. Se um programa executa sem dar erros técnicos, mas faz algo completamente diferente daquilo que o cliente pediu, podemos considerar que o software tem qualidade?
+
+B) Não, a qualidade também se mede pela conformidade com os requisitos do cliente.
+
+6. Um teste unitário foca-se em avaliar:
+B) A menor parte isolada do código, como uma única função ou método.
+
+7. Os testes unitários são tipicamente escritos e executados pelo próprio programador que desenvolveu aquela parte do código.
+(X) Verdadeiro
+( ) Falso
+
+8. Testar se uma função isolada consegue calcular corretamente o valor do IVA (23%) de um produto é um exemplo clássico de:
+B) Teste Unitário.
+
+9. Os testes unitários devem ser o mais complexos possíveis e demorar vários minutos a executar para garantir que são eficazes.
+( ) Verdadeiro
+(X) Falso
+
+10. Os testes de integração servem para verificar se dois ou mais módulos do sistema funcionam bem quando combinados uns com os outros.
+(X) Verdadeiro
+( ) Falso
+
+11. Se todos os testes unitários de um projeto passarem com 100% de sucesso, é matematicamente impossível existirem erros quando juntamos as peças no teste de integração.
+( ) Verdadeiro
+(X) Falso
+
+12. Testar se o ecrã de login (módulo A) consegue ler e validar os dados guardados dentro da Base de Dados (módulo B) é um exemplo de:
+C) Teste de Integração.
+
+13. Os testes de integração ignoram as funções isoladas e analisam o comportamento dos componentes quando estes começam a comunicar entre si.
+(X) Verdadeiro
+
+14. Um teste de carga avalia o comportamento do sistema sob um volume de acessos considerado normal e esperado para o dia a dia da aplicação.
+(X) Verdadeiro
+() Falso
+
+15. O objetivo principal de um teste de stress é levar o sistema propositadamente além do seu limite planeado para observar como ele falha e se consegue recuperar.
+(X) Verdadeiro
+( ) Falso
+
+16. Qual dos seguintes cenários exige obrigatoriamente a realização de um teste de stress antes do lançamento?
+B) A abertura das vendas de bilhetes para o concerto de um artista mundialmente famoso.
+
+17. Os testes de performance (como carga e stress) são considerados testes funcionais, porque avaliam diretamente as regras de negócio do código.
+( ) Verdadeiro
+(X) Falso
+
+18. Se um site fica extremamente lento ou vai abaixo quando atinge 500 utilizadores em simultâneo (que era o limite normal previsto pela empresa), podemos dizer que ele falhou num teste de:
+B) Teste de Carga.
+
+19. Testar a segurança do sistema contra ataques de piratas informáticos é o objetivo principal de um teste de carga.
+( ) Verdadeiro
+(X) Falso
+
+20. Os testes de aceitação servem para validar se o software cumpre os requisitos de negócio e está pronto para ser entregue ao cliente final.
+(X) Verdadeiro
+( ) Falso
+
+21. Os testes de aceitação devem ser planeados e executados logo na primeira semana de desenvolvimento do projeto, antes de começar o desenvolvimento.
+( ) Verdadeiro
+(X) Falso
+
+22. Quem é o ator principal na validação final durante os testes de aceitação?
+B) O cliente final ou os utilizadores reais da aplicação.
+
+23. Um teste de aceitação bem-sucedido é geralmente o gatilho contratual para que o cliente valide o projeto e dê autorização para colocar o sistema em produção.
+(X) Verdadeiro
+( ) Falso
+
+24. A "Pirâmide de Testes" sugere que os projetos de software devem ter uma enorme quantidade de testes de aceitação na base e pouquíssimos testes unitários no topo.
+( ) Verdadeiro
+(X) Falso
+
+25. Os testes manuais são obsoletos e inúteis, devendo ser totalmente eliminados de qualquer empresa moderna de desenvolvimento de software.
+( ) Verdadeiro
+(X) Falso
+
+26. Automatizar testes significa escrever um guião num papel para que um humano o siga passo a passo sem se esquecer de nada.
+( ) Verdadeiro
+(X) Falso
+
+27. O conceito de "Testes de Regressão" refere-se a voltar a testar o sistema após uma alteração para garantir que o código novo não estragou funcionalidades que já funcionavam bem antes.
+(X) Verdadeiro
+( ) Falso
+
+28. Um "Falso Positivo" no mundo dos testes acontece quando um teste automático acusa que existe um erro no sistema, mas na realidade o código está correto e a falha foi do próprio teste.
+(X) Verdadeiro
+( ) Falso
+
+29. Testar o software é uma atividade que só deve começar na mente da equipa quando o projeto estiver 100% programado e fechado.
+( ) Verdadeiro
+(X) Falso
+
+30. O que avaliam os testes não-funcionais (como os testes de performance)?
+B) Como o sistema se comporta (velocidade, estabilidade, segurança), em vez de testar a funcionalidade em si.
